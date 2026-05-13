@@ -1,0 +1,22 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.mex*
+*.slxc
+*.mat
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Results
+Results/Excel/*.xlsx
+Results/Figures/*.png
+
+# Training checkpoints
+checkpoints/
+trained_models/
+
+# Large datasets
+dataset/
+full_dataset/

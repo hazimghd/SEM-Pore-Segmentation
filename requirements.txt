@@ -1,0 +1,10 @@
+MATLAB R2022a or later
+
+Required Toolboxes:
+- Deep Learning Toolbox
+- Image Processing Toolbox
+- Computer Vision Toolbox
+
+Recommended Hardware:
+- NVIDIA GPU with CUDA support
+- Minimum 8 GB RAM
